@@ -1,5 +1,5 @@
 # realm -> json
-
+<img width="2818" height="1688" alt="Top" src="https://github.com/user-attachments/assets/5e0bfb6c-c22f-444f-9a9b-4758a80847e2" />
 Convert a Realm database into JSON.
 
 This Python CLI exists because Realm Studio exports were unreliable here (array handling in particular). It runs `realmdump_v2.js` via Node and writes the stdout JSON to a file.
