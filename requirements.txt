@@ -1,0 +1,2 @@
+# Python 3.10+
+# 標準ライブラリのみ。pip install は不要。

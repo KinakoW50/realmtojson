@@ -1,0 +1,16 @@
+{
+  "name": "realm-to-json",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dump a Realm database to JSON via Node.js, wrapped by a Python CLI.",
+  "main": "realmdump_v2.js",
+  "scripts": {
+    "dump": "node realmdump_v2.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "realm": "20.2.0"
+  }
+}

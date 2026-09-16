@@ -1,0 +1,9 @@
+node_modules/
+*.realm
+*.realm.lock
+*.realm.note
+*.realm.management/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
